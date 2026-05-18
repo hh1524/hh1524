@@ -8,7 +8,7 @@ About me:
 
 🔧Skills: Verilog, SystemC, FPGA (Vivado), Embedded C, Arduino/ESP32, CNN, Quantization.
 
-💡Projects: Lane Detection on FPGA, Embedded Gas & Fire Warning System, I2C Master/Slave Design.
+💡Projects: Lane Detection on FPGA, ECG Classification on FPGA, I2C Master/Slave Design, Embedded Gas & Fire Warning System,Landslide Warning System.
 
 🧩Career Goal: IC Design / FPGA / Embedded AI Engineer.
 
